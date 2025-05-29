@@ -1,0 +1,3 @@
+/home/xuanyi/practice/helloworld/build/CMakeFiles/hello.dir
+/home/xuanyi/practice/helloworld/build/CMakeFiles/edit_cache.dir
+/home/xuanyi/practice/helloworld/build/CMakeFiles/rebuild_cache.dir

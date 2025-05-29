@@ -1,0 +1,3 @@
+/home/xuanyi/practice/calculator/build/CMakeFiles/calculator.dir
+/home/xuanyi/practice/calculator/build/CMakeFiles/edit_cache.dir
+/home/xuanyi/practice/calculator/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/myapp.dir/main.c.o CMakeFiles/myapp.dir/src/addStudent.c.o CMakeFiles/myapp.dir/src/deleteStudent.c.o CMakeFiles/myapp.dir/src/menu.c.o CMakeFiles/myapp.dir/src/searchStudent.c.o CMakeFiles/myapp.dir/src/viewAllStudent.c.o -o myapp 
