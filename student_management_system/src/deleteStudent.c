@@ -12,6 +12,7 @@ void deleteStudent(int number){
                 students[j] = students[j + 1];
             }
             studentCount--;
+            found = 1;
             printf("Delete student sccessfually!");
         }
     }
